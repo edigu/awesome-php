@@ -374,6 +374,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Athletic](https://github.com/polyfractal/athletic) - An annotation based benchmark framework.
 * [Better Reflection](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
 * [Code Climate](https://codeclimate.com) - An automated code review.
+* [Churn](https://github.com/bmitch/churn-php) - Helps discover good candidates for refactoring.
 * [Dissect](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
 * [Exakat](https://github.com/exakat/exakat) - A static analysis engine for PHP.
 * [GrumPHP](https://github.com/phpro/grumphp) - A composer plugin to defend code quality.
